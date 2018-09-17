@@ -1,6 +1,6 @@
 # Wild Rokemon Encounter
 
-You will develop a game in which you can navigate around the map and meet wild Rokemons (this challenge requires you to only "meet" the Rokemons, but you are free to design functionalities such as catching, fighting or whatever what you want with Rokemons of course).
+You will develop a game in which you can navigate around the map and meet wild Rokemons (this challenge requires you to only "meet" the Rokemons, but you are free to design functionalities such as catching, fighting or whatever you want with Rokemons of course).
 
 Use a framework/library of your choice.
 
@@ -14,6 +14,10 @@ Use a framework/library of your choice.
 * 
 
 ![alt text](wild_rokemon_encounter_1.png)
+
+## Demo
+
+https://wild-rokemon-encounter.herokuapp.com/
 
 ## Suggested Steps
 
